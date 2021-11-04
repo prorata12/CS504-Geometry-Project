@@ -22,3 +22,4 @@ You can see the result by runnning del.py
 ### Presentation File
 : https://docs.google.com/presentation/d/1J7F2x0UvBO2rQap1j_PKufk_gjNILNFGBiLs-DkWoKk/edit?usp=sharing
 
+![image](https://user-images.githubusercontent.com/28648962/140300537-a4a00f39-888b-44db-a881-a68f26cdfe6e.png)
